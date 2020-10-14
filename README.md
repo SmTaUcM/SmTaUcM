@@ -19,7 +19,7 @@ Git / DiffMerge / Blender / Qt
 
 # Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SmTaUcM&repo=SSRT&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SmTaUcM&repo=SSRT&theme=tokyonight)](https://github.com/SmTaUcM/SSRT)
 <!--
 **SmTaUcM/SmTaUcM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
